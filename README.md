@@ -1,5 +1,5 @@
 # TTL_Calculator_4_Banger
-A 4-function calculator implemented in 74hcXX chips
+A 4-function, 8-digit, floating point calculator implemented in 74hcXX chips
 <pre>
 Contents
     *.pptx - PowerPoint Overview of the architecture
