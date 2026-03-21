@@ -10,5 +10,7 @@ Contents
     *.h - Microcode object (Arduino C code array)
     *.ini - Arduino based microcode programmer (Arduino C code)
     EEPROM*.pdf - 2816 programmer schematic diagram
+    PCB_PIC.jpg - Graphic of the PCB
+    4-Banger-Pic.jpg - Picture of the completed project
 </pre>
 
