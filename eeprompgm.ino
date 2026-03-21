@@ -45,10 +45,8 @@ void setup() {
 #define _HANG while(1) delay(1000)
 
 // declare ROM image to program and ROMSZ
-//#include "ROM.h"
 //#include "TSTROM1.h"
-#include "TSTROMDSKY.h"
-//#include "TSTROMINCR.h"
+#include "uROM.h"
 
 
 //byte readRxNumBlks() {        // Block until a byte is available and return it as the block size
