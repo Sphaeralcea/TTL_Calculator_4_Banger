@@ -8,6 +8,7 @@ Contents
     *DSKY.pdf - Display and Keyboard unit schematic diagram
     *REG*.pdf - Register and Arithmatic unit schematic diagram
     uCode*.xlsx - Microcode source
+    MathSim2.xlsx - Spreadsheet simulator for math uCode algorithms
     *.h - Microcode object (Arduino C code array)
     *.ini - Arduino based microcode programmer (Arduino C code)
     EEPROM*.pdf - 2816 programmer schematic diagram
