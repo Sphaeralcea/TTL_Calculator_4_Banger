@@ -15,5 +15,6 @@ Contents
     2816Pgm.jpg - Picure of 2816 programmer
     PCB_PIC.jpg - Graphic of the PCB
     4-Banger-Pic.jpg - Picture of the completed project
+    CalcRev5.7.3.ZIP - Zipped Logisim-evolution RTL model
 </pre>
 
