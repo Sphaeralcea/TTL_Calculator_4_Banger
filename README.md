@@ -7,7 +7,7 @@ Contents
     *SEQ.pdf - Sequencer unit schematic diagram
     *DSKY.pdf - Display and Keyboard unit schematic diagram
     *REG*.pdf - Register and Arithmatic unit schematic diagram
-    uCode*.xlsx - Microcode source
+    uCode7.5.3.2.xlsx - Microcode source
     MathSim2.xlsx - Spreadsheet simulator for math uCode algorithms
     *.h - Microcode object (Arduino C code array)
     *.ini - Arduino based microcode programmer (Arduino C code)
