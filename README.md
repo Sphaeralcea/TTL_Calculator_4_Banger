@@ -3,7 +3,6 @@ A 4-function, 8-digit, floating point calculator implemented in 74hcXX chips
 <pre>
 Contents
      Calc4Banger_Overview.pdf - Architecture and Design documentation
-    *.pptx - PowerPoint Overview of the architecture
     *SEQ.pdf - Sequencer unit schematic diagram
     *DSKY.pdf - Display and Keyboard unit schematic diagram
     *REG*.pdf - Register and Arithmatic unit schematic diagram
